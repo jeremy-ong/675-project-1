@@ -1,0 +1,11 @@
+aligner	parameter values	alignment rate
+bowtie2	defaults -N 0 -L 22	94.18%
+bowtie2	-N 1	94.16%
+bowtie2	-L 30	93.69%
+bowtie2	-L 15	94.46%
+bowtie2	-L 12	94.49%
+bwa-mem	defaults -k 19 -B 4	89.11%
+bwa-mem	-k 30	75.19%
+bwa-mem	-k 15	90.15%
+bwa-mem	-B 3	89.86%
+bwa-mem	-B 5	88.40%
